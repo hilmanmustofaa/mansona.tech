@@ -86,7 +86,7 @@ disqusShortname = ''
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Hilman's Journal"
   name = "Hilman Mustofa"
-  description = "Welcome to my digital abode! I'm Hilman👋, a cloud engineer weaving tales of innovation in the realms of GCP This blog is created to share my professional experience as Cloud Engineer."
+  description = "Welcome to my digital abode! I'm Hilman👋, This blog is created to share my professional experience as Cloud Engineer."
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
