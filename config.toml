@@ -36,7 +36,7 @@ disqusShortname = ''
 [Languages.en-gb]
   languageName = "English"
   languageCode = "en-gb"
-  contentDir = "content/en"
+  contentDir = "content/"
   weight = 1
 
   [Languages.en-gb.menu]
