@@ -10,9 +10,20 @@ googleAnalytics = ''
 [params]
   goToTop = true
 
+# To enable Disqus comments, provide Disqus Shortname below.
+# To disable Disqus comments, simply leave the field empty or remove the next line
+disqusShortname = ''
+
+# set markup.highlight.noClasses=false to enable code highlight
 [markup]
   [markup.highlight]
     noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+	[markup.tableOfContents]
+		startLevel = 2 # ToC starts from H2
+		endLevel = 4 # ToC ends at H4
+		ordered = false # generates <ul> instead of <ol>
 
 [menu]
   [[menu.main]] 
